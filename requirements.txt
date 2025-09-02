@@ -1,4 +1,4 @@
 flask==2.3.3
 tensorflow==2.20.0
-numpy==1.26.0
+numpy==2.0.0
 pillow==10.0.1
